@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MigrationSDK_Tests' do
+  pod 'MigrationSDK', :path => '../'
+  
+  
+end
